@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/psutil-v5.8.0-orange" />
   <img src="https://img.shields.io/badge/pycpuinfo-v7.0.0-orange" />
   <img src="https://img.shields.io/badge/matplotlib-v3.3.4-orange" />
-  <img src="https://img.shields.io/badge/netifaces-v0.10.9-orange" />
   <img src="https://img.shields.io/badge/socket-lightgrey" />
   <img src="https://img.shields.io/badge/time-lightgrey" />
   <img src="https://img.shields.io/badge/pickle-lightgrey" />
