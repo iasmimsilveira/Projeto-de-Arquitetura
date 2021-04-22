@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   <img width="500px" src="" alt="Instituto Infnet" width="280"/>
+   <img width="500px" src="https://github.com/iasmimsilveira/PB--de-Arquiterura/blob/main/logo.jpeg" alt="Instituto Infnet" width="280"/>
 </p>
 
 <p align="center">
