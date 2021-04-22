@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   <img width="500px" src="https://github.com/MTevangelista/computer-info-project/blob/main/.github/logo.jpg" alt="Instituto Infnet" width="280"/>
+   <img width="500px" src="" alt="Instituto Infnet" width="280"/>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Para instalar esse projeto, o processo é bem simples. Basta utilizar o seguinte
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/iasmimsilveira/projeto-de-arquitetura.git
+$ git clone https://github.com/iasmimsilveira/PB--de-Arquiterura.git
 ```
 
 ### Instale as bibliotecas
