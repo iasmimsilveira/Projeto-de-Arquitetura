@@ -37,9 +37,6 @@
 - [Contato](#contato)
 
 ## Sobre o Projeto
-<p align="center">
-  <img alt="design do projeto" src="https://fontmeme.com/permalink/210402/a5270e816a2709481fa4348626907f95.png" />
-<p>
   
 A proposta do Projeto de Bloco de Arquitetura de Computadores, Sistemas Operacionais e Redes é um software cliente-servidor em Python que explore conceitos de arquitetura de redes, arquitetura de computadores e/ou de sistemas operacionais, acompanhado de relatório explicativo. </br>
 Esse software cliente-servidor possui as seguintes funcionalidades:
